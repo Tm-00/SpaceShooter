@@ -1,3 +1,2 @@
 # SpaceShooter
-Repository of my first game coursework piece
-.
+A First Person wave based shooter.
